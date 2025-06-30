@@ -44,9 +44,6 @@ VidaPlus_Jamin/
 
 - **HTML5** e **CSS3** (com variáveis modernas)
 - **Tailwind CSS** (via CDN)
-- **Google Fonts (Inter)**
-- **JavaScript** (básico para interatividade)
-- **PlantUML** (para diagramas UML)
 
 ---
 
